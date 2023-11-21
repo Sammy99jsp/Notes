@@ -1,0 +1,1 @@
+- Since we have a finite set of data, we'll only find an approximation of the original function.

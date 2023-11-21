@@ -1,1 +1,3 @@
-This is 
+- Noise in measurements
+- Some variables aren't observed
+- Mislabelled data

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CM20315/12/Noise.md",
+                "file": "CM20315/12/Variance.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CM20315/12/Noise.md",
+                "file": "CM20315/12/Variance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CM20315/12/Noise.md",
+                "file": "CM20315/12/Variance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CM20315/12/Noise.md"
+                "file": "CM20315/12/Variance.md"
               }
             }
           },
@@ -167,8 +167,10 @@
   },
   "active": "104c50879eae14f9",
   "lastOpenFiles": [
-    "CM20315/12/Performance.md",
+    "CM20315/12/Bias.md",
+    "CM20315/12/Variance.md",
     "CM20315/12/Noise.md",
+    "CM20315/12/Performance.md",
     "CM20315/12",
     "CM20315/11/Manipulating Expectations/Manipulating Expectations.md",
     "CM20315/11/Manipulating Expectations/Product of Functions of Independent Variables.md",
@@ -197,8 +199,6 @@
     "CM20254/10/Trees.md",
     "CM20254/10/Tree Traversal.md",
     "CM20254/10/Graphs.md",
-    "CM20254/10/Cycles.md",
-    "CM20254/10/Connected Graphs.md",
     "CM20254/10",
     "CM20217/PDA",
     "CM20217/md"

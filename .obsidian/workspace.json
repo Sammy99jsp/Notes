@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CM20315/12/Performance.md",
+                "file": "CM20315/12/Higher Dimensions.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CM20315/12/Performance.md",
+                "file": "CM20315/12/Higher Dimensions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CM20315/12/Performance.md",
+                "file": "CM20315/12/Higher Dimensions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CM20315/12/Performance.md"
+                "file": "CM20315/12/Higher Dimensions.md"
               }
             }
           },
@@ -167,13 +167,14 @@
   },
   "active": "43d2fff2b95afdae",
   "lastOpenFiles": [
+    "CM20315/12/Performance.md",
+    "CM20315/12/Higher Dimensions.md",
     "CM20315/12/Reducing Bias.md",
     "CM20315/12/bias-variance-tradeoff.png",
     "CM20315/12/increased-bias.png",
     "CM20315/12/reduce-bias.png",
     "CM20315/12/Reducing Variance.md",
     "CM20315/12/variance-reduction.png",
-    "CM20315/12/Performance.md",
     "CM20315/12/Bias.md",
     "CM20315/12/Variance.md",
     "CM20315/12/Noise.md",

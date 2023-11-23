@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 301.5,
+    "collapsed": true
   },
   "right": {
     "id": "b34c62572300ef7f",
@@ -167,9 +168,9 @@
   },
   "active": "269b14efcca84fb9",
   "lastOpenFiles": [
-    "CM20254/12/Heapsort.md",
-    "CM20254/12/Make-heap Complexity.md",
     "CM20254/12/Heaps and Heapsort.md",
+    "CM20254/12/Make-heap Complexity.md",
+    "CM20254/12/Heapsort.md",
     "CM20254/12/Max-heap.md",
     "CM20254/12/Operations on Max-heaps.md",
     "CM20254/12/insert.md",

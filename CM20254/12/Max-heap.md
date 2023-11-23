@@ -41,7 +41,7 @@ A valid max-heap:
 \end{tikzpicture}
 \end{document}
 ```
-
+[[[Operations on Max-heaps]]]
 
 
 

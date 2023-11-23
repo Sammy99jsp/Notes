@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "31fd4bd98d8cf433",
+        "id": "9c96f2e76f582ea1",
         "type": "tabs",
         "children": [
           {
-            "id": "c3d111a263f63aac",
+            "id": "269b14efcca84fb9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CM20254/12/Max-heap.md",
+                "file": "CM20254/12/Make-heap Complexity.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CM20254/12/Max-heap.md",
+                "file": "CM20254/12/Make-heap Complexity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CM20254/12/Max-heap.md",
+                "file": "CM20254/12/Make-heap Complexity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CM20254/12/Max-heap.md"
+                "file": "CM20254/12/Make-heap Complexity.md"
               }
             }
           },
@@ -165,11 +165,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c3d111a263f63aac",
+  "active": "269b14efcca84fb9",
   "lastOpenFiles": [
+    "CM20254/12/Heapsort.md",
+    "CM20254/12/Make-heap Complexity.md",
     "CM20254/12/Heaps and Heapsort.md",
     "CM20254/12/Max-heap.md",
-    "CM20254/12/Heapsort.md",
+    "CM20254/12/Operations on Max-heaps.md",
+    "CM20254/12/insert.md",
+    "CM20254/12/deleteMax.md",
+    "CM20254/12/getMax.md",
     "Untitled.canvas",
     "CM20217/10/Accepted Languages.md",
     "CM20254/12",
@@ -199,12 +204,7 @@
     "CM20217/10",
     "CM20217/ContextFree/Pumping Lemma for CFLs.md",
     "CM20217/_/Group 1.png",
-    "CM20217/ContextFree/Intuition.md",
-    "CM20217/ContextFree/Limitations of CFG.md",
     "CM20315/12",
-    "CM20315/11/Manipulating Expectations/Manipulating Expectations.md",
-    "CM20315/11/Manipulating Expectations/Product of Functions of Independent Variables.md",
-    "CM20315/11/Manipulating Expectations/Sum of Functions.md",
     "CM20315/11/Manipulating Expectations",
     "CM20315/11",
     "Untitled",

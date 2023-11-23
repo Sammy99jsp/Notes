@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c9fa1910075f74e9",
+        "id": "31fd4bd98d8cf433",
         "type": "tabs",
         "children": [
           {
-            "id": "43d2fff2b95afdae",
+            "id": "c3d111a263f63aac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CM20315/12/Higher Dimensions.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CM20315/12/Higher Dimensions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CM20315/12/Higher Dimensions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CM20315/12/Higher Dimensions.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,19 +157,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43d2fff2b95afdae",
+  "active": "c3d111a263f63aac",
   "lastOpenFiles": [
     "CM20315/12/Performance.md",
-    "CM20315/12/Higher Dimensions.md",
+    "CM20315/12/Variance.md",
+    "CM20315/12/Reducing Variance.md",
+    "CM20315/12/Bias.md",
     "CM20315/12/Reducing Bias.md",
+    "CM20315/12/Noise.md",
+    "CM20315/12/Higher Dimensions.md",
     "CM20315/12/bias-variance-tradeoff.png",
     "CM20315/12/increased-bias.png",
     "CM20315/12/reduce-bias.png",
-    "CM20315/12/Reducing Variance.md",
     "CM20315/12/variance-reduction.png",
-    "CM20315/12/Bias.md",
-    "CM20315/12/Variance.md",
-    "CM20315/12/Noise.md",
     "CM20217/10/Decidable.md",
     "CM20217/10/Configurations.md",
     "CM20217/10/Definition.md",

@@ -11,8 +11,12 @@
             "id": "c3d111a263f63aac",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CM20254/12/Max-heap.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CM20254/12/Max-heap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CM20254/12/Max-heap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CM20254/12/Max-heap.md"
+              }
             }
           },
           {
@@ -159,6 +167,12 @@
   },
   "active": "c3d111a263f63aac",
   "lastOpenFiles": [
+    "CM20254/12/Heaps and Heapsort.md",
+    "CM20254/12/Max-heap.md",
+    "CM20254/12/Heapsort.md",
+    "Untitled.canvas",
+    "CM20217/10/Accepted Languages.md",
+    "CM20254/12",
     "CM20315/12/Performance.md",
     "CM20315/12/Variance.md",
     "CM20315/12/Reducing Variance.md",
@@ -177,7 +191,6 @@
     "CM20217/10/Semi-Decidable.md",
     "CM20217/10/Computations in TM.md",
     "CM20217/10/Turing Machines.md",
-    "CM20217/10/Accepted Languages.md",
     "CM20217/10/As State Diagrams.md",
     "CM20217/10/State.png",
     "CM20217/10/Pasted image 20231123104657 1.png",
@@ -192,16 +205,12 @@
     "CM20315/11/Manipulating Expectations/Manipulating Expectations.md",
     "CM20315/11/Manipulating Expectations/Product of Functions of Independent Variables.md",
     "CM20315/11/Manipulating Expectations/Sum of Functions.md",
-    "CM20217/ContextFree/Context-Free Grammar to PDA.md",
-    "CM20315/11/Manipulating Expectations/Multiplication by Constant.md",
-    "CM20315/11/Manipulating Expectations/Constant Values.md",
     "CM20315/11/Manipulating Expectations",
     "CM20315/11",
     "Untitled",
     "CM20217/ContextFree",
     "CM20315/10",
     "CM20254/10",
-    "CM20217/PDA",
-    "CM20217/md"
+    "CM20217/PDA"
   ]
 }

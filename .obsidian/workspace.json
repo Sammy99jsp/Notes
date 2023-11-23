@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CM20217/ContextFree/Recursive Repetition in Parse Trees.md",
+                "file": "CM20217/10/Turing Machines.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CM20217/ContextFree/Recursive Repetition in Parse Trees.md",
+                "file": "CM20217/10/Turing Machines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CM20217/ContextFree/Recursive Repetition in Parse Trees.md",
+                "file": "CM20217/10/Turing Machines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CM20217/ContextFree/Recursive Repetition in Parse Trees.md"
+                "file": "CM20217/10/Turing Machines.md"
               }
             }
           },
@@ -165,11 +165,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "104c50879eae14f9",
+  "active": "86b7d51b7c648ec8",
   "lastOpenFiles": [
+    "CM20217/ContextFree/Recursive Repetition in Parse Trees.md",
+    "CM20217/10/Turing Machines.md",
+    "CM20217/10",
     "CM20217/ContextFree/Pumping Lemma for CFLs.md",
     "CM20217/_/Group 1.png",
-    "CM20217/ContextFree/Recursive Repetition in Parse Trees.md",
     "CM20217/ContextFree/Intuition.md",
     "CM20217/ContextFree/Limitations of CFG.md",
     "CM20315/12/Variance.md",

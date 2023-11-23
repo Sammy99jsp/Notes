@@ -91,6 +91,6 @@ But, we can make a modification to our automaton in order for it to have finite 
 
 Notice for our word to be accepted, we *start with an empty stack* in the starting state and *end with an empty stack* in an accepting state.
 
-[[Definition]]
+[[CM20217/PDA/Definition]]
 [[Accepting Languages]]
 [[Drawing PDAs]]

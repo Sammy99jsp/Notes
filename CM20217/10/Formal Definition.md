@@ -1,0 +1,17 @@
+A Turing machine (TM), consists of six objects $\big(Q,\ \Sigma,\ \Sigma_0,\ s,\ \delta,\ H\big)$ where:
+- $Q$ is a finite set of **states**.
+- $\Sigma$ is the **tape alphabet** (what can be featured on the tape):
+	- We must add additional memory symbols:
+		- $\triangleright$  for "*End of tape*"
+		- $\sqcup$ for "*Blank cell*"
+	- We also can't contain symbols:
+		- $L$ - this is notation to "*move head left*"
+		- $R$ - this is notation to "*move head right*"
+- $\Sigma_0 \subseteq \setminus \big\{\triangleright,\ \sqcup\big\}$ is the **input alphabet**:
+	- Notice, it's a subset of the tape alphabet minus the extra symbols - this means, for example we can internally store $\big\{1,\ 2,\ 3\big\}$, but only accept $\big\{1,\ 2,\big\}$ as input.
+- $s \in Q$ is the **initial state**.
+- $H \subseteq Q$ are the **halting states**:
+	- These are states in which the machine will terminate its execution.
+- $\delta: \big(Q \setminus H\big) \times \Sigma \rightarrow Q \times \big(\Sigma \cup \{L, R\}\big)$ is the **transition function**:
+- If $\delta(q, \triangleright) = (p, b)$, then $b = R$ (head can't fall off the end of the tape);
+- If $\delta(q, a) = (p, b)$ then $b \neq \triangleright$ ($\triangleright$ can only appear on the end of the tape).

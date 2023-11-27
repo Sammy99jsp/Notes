@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CM20254/13/Dijkstra Correctness.md",
+                "file": "CM20315/13/Explicit Regularisation.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CM20254/13/Dijkstra Correctness.md",
+                "file": "CM20315/13/Explicit Regularisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CM20254/13/Dijkstra Correctness.md",
+                "file": "CM20315/13/Explicit Regularisation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CM20254/13/Dijkstra Correctness.md"
+                "file": "CM20315/13/Explicit Regularisation.md"
               }
             }
           },
@@ -167,8 +167,11 @@
   },
   "active": "269b14efcca84fb9",
   "lastOpenFiles": [
-    "CM20254/13/Dijkstra's Algorithm.md",
+    "CM20315/13/Regularisation.md",
+    "CM20315/13/Explicit Regularisation.md",
+    "CM20315/13",
     "CM20254/13/Dijkstra Correctness.md",
+    "CM20254/13/Dijkstra's Algorithm.md",
     "CM20254/13/Dijkstra Pseudocode.md",
     "CM20254/13/Path-finding Algorithms.md",
     "CM20254/12/Heapsort.md",
@@ -199,8 +202,6 @@
     "CM20315/12/variance-reduction.png",
     "CM20217/10/Decidable.md",
     "CM20217/10/Configurations.md",
-    "CM20217/10/Definition.md",
-    "CM20217/10/Formal Definition.md",
     "CM20217/10/State.png",
     "CM20217/10/Pasted image 20231123104657 1.png",
     "CM20217/10/tape.png",
@@ -211,7 +212,6 @@
     "CM20315/11",
     "Untitled",
     "CM20217/ContextFree",
-    "CM20315/10",
-    "CM20254/10"
+    "CM20315/10"
   ]
 }

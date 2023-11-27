@@ -1,0 +1,2 @@
+$$\hat{\boldsymbol\phi}= \underset{\boldsymbol\phi}{\mathrm{argmin}}\left[\underbrace{\sum_{i=1}^I \ell_i\left[\boldsymbol{\mathrm{x}}_i,\ \boldsymbol{\mathrm{y}}_i\right]}_{\text{\ \ \ standard loss function}} + \underbrace{\lambda \cdot \mathrm g\left[\boldsymbol\phi\right]}_{{\text{regularisation}\ \ }}\right]$$
+Here, $\mathrm g[\boldsymbol\phi]$ describes how good a given set of parameters is, and $\lambda$ controls how much towards $\mathrm g[\boldsymbol\phi]$.

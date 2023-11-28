@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CM20315/13/Explicit Regularisation.md",
+                "file": "CM20315/13/Adding Noise.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CM20315/13/Explicit Regularisation.md",
+                "file": "CM20315/13/Adding Noise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CM20315/13/Explicit Regularisation.md",
+                "file": "CM20315/13/Adding Noise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CM20315/13/Explicit Regularisation.md"
+                "file": "CM20315/13/Adding Noise.md"
               }
             }
           },
@@ -167,7 +167,13 @@
   },
   "active": "269b14efcca84fb9",
   "lastOpenFiles": [
+    "CM20315/13/Dropout.md",
+    "CM20315/13/Adding Noise.md",
     "CM20315/13/Regularisation.md",
+    "CM20315/13/Ensembling.md",
+    "CM20315/13/Early Stopping.md",
+    "CM20315/13/Implicit Regularisation.md",
+    "CM20315/13/L2 Regularisation.md",
     "CM20315/13/Explicit Regularisation.md",
     "CM20315/13",
     "CM20254/13/Dijkstra Correctness.md",
@@ -192,16 +198,10 @@
     "CM20315/12/Performance.md",
     "CM20315/12/Variance.md",
     "CM20315/12/Reducing Variance.md",
-    "CM20315/12/Bias.md",
-    "CM20315/12/Reducing Bias.md",
-    "CM20315/12/Noise.md",
-    "CM20315/12/Higher Dimensions.md",
     "CM20315/12/bias-variance-tradeoff.png",
     "CM20315/12/increased-bias.png",
     "CM20315/12/reduce-bias.png",
     "CM20315/12/variance-reduction.png",
-    "CM20217/10/Decidable.md",
-    "CM20217/10/Configurations.md",
     "CM20217/10/State.png",
     "CM20217/10/Pasted image 20231123104657 1.png",
     "CM20217/10/tape.png",

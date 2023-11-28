@@ -7,3 +7,7 @@ How do we make our models more general, or *regular* -- currently, our models ca
 Essentially, regularisation is finagling the loss function by adding extra things to consider.
 
 [[Explicit Regularisation]]
+[[L2 Regularisation]]
+[[Implicit Regularisation]]
+[[Early Stopping]]
+[[Ensembling]]

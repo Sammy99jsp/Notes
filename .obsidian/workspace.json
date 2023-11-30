@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CM20217/TuringMachines/The Halting Problem.md",
+                "file": "CM20315/14/Networks for Images.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5,
-    "collapsed": true
+    "width": 301.5
   },
   "right": {
     "id": "b34c62572300ef7f",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CM20217/TuringMachines/The Halting Problem.md",
+                "file": "CM20315/14/Networks for Images.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CM20217/TuringMachines/The Halting Problem.md",
+                "file": "CM20315/14/Networks for Images.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CM20217/TuringMachines/The Halting Problem.md"
+                "file": "CM20315/14/Networks for Images.md"
               }
             }
           },
@@ -168,9 +167,12 @@
   },
   "active": "2f5f8fe21f6bbb10",
   "lastOpenFiles": [
+    "CM20315/14/Convolutional Networks.md",
+    "CM20315/14/Networks for Images.md",
+    "CM20217/TuringMachines/The Halting Problem.md",
+    "CM20315/14",
     "CM20217/TuringMachines/Computing TMs with TMs.md",
     "CM20217/TuringMachines/Aside - Russel's Paradox.md",
-    "CM20217/TuringMachines/The Halting Problem.md",
     "CM20217/TuringMachines/The Universal Turing Machine.md",
     "CM20217/TuringMachines/Computing RegEx with TMs.md",
     "CM20217/TuringMachines/Computing NFAs with TMs.md",
@@ -194,10 +196,8 @@
     "CM20254/13",
     "CM20254/12/Heaps and Heapsort.md",
     "CM20254/12/Heap-based Treesort.md",
-    "CM20254/12/Heap-based Treesort Complexity.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "CM20254/12/Make-heap Complexity.md",
     "CM20254/12",
     "CM20315/12/bias-variance-tradeoff.png",
     "CM20315/12/increased-bias.png",
@@ -212,7 +212,6 @@
     "CM20315/11/Manipulating Expectations",
     "CM20315/11",
     "Untitled",
-    "CM20217/ContextFree",
-    "CM20315/10"
+    "CM20217/ContextFree"
   ]
 }

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9c96f2e76f582ea1",
+        "id": "795bffdfdb902dd2",
         "type": "tabs",
         "children": [
           {
-            "id": "269b14efcca84fb9",
+            "id": "8b2f6d55f3de31c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CM20315/13/Adding Noise.md",
+                "file": "CM20219/03.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CM20315/13/Adding Noise.md",
+                "file": "CM20219/03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CM20315/13/Adding Noise.md",
+                "file": "CM20219/03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,12 +133,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CM20315/13/Adding Noise.md"
+                "file": "CM20219/03.md"
               }
             }
           },
           {
-            "id": "38ae020583c30fc3",
+            "id": "a66fe1a82e7b28fd",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -150,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 542.5,
-    "collapsed": true
+    "width": 542.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,10 +164,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "269b14efcca84fb9",
+  "active": "a66fe1a82e7b28fd",
   "lastOpenFiles": [
-    "CM20315/13/Dropout.md",
     "CM20315/13/Adding Noise.md",
+    "CM20315/13/Dropout.md",
     "CM20315/13/Regularisation.md",
     "CM20315/13/Ensembling.md",
     "CM20315/13/Early Stopping.md",

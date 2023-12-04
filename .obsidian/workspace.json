@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e7a186ad703fa183",
+        "id": "2f48dbbe5d63da8d",
         "type": "tabs",
         "children": [
           {
-            "id": "2f5f8fe21f6bbb10",
+            "id": "de6122c83ae027a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CM20315/14/Networks for Images.md",
+                "file": "CM20254/14/Kruskal's Algorithm - Correctness.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CM20315/14/Networks for Images.md",
+                "file": "CM20254/14/Kruskal's Algorithm - Correctness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CM20315/14/Networks for Images.md",
+                "file": "CM20254/14/Kruskal's Algorithm - Correctness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CM20315/14/Networks for Images.md"
+                "file": "CM20254/14/Kruskal's Algorithm - Correctness.md"
               }
             }
           },
@@ -165,10 +165,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f5f8fe21f6bbb10",
+  "active": "de6122c83ae027a0",
   "lastOpenFiles": [
-    "CM20315/14/Convolutional Networks.md",
+    "CM20254/14/Kruskal's Alogirithm.md",
+    "CM20254/14/Kruskal's Algorithm - Correctness.md",
+    "CM20254/14/Untitled.md",
+    "CM20254/14/Subgraph.md",
+    "CM20254/14/Spanning Trees.md",
+    "CM20254/14/Spanning.md",
+    "CM20254/14/Minimum Spanning Trees.md",
+    "Kruskal's Algorithm.md",
     "CM20315/14/Networks for Images.md",
+    "CM20254/14",
+    "CM20315/14/Convolutional Networks.md",
     "CM20217/TuringMachines/The Halting Problem.md",
     "CM20315/14",
     "CM20217/TuringMachines/Computing TMs with TMs.md",
@@ -186,16 +195,8 @@
     "CM20315/13/Early Stopping.md",
     "CM20315/13/Implicit Regularisation.md",
     "CM20315/13/L2 Regularisation.md",
-    "CM20315/13/Explicit Regularisation.md",
     "CM20315/13",
-    "CM20254/13/Dijkstra Correctness.md",
-    "CM20254/13/Dijkstra's Algorithm.md",
-    "CM20254/13/Dijkstra Pseudocode.md",
-    "CM20254/13/Path-finding Algorithms.md",
-    "CM20254/12/Heapsort.md",
     "CM20254/13",
-    "CM20254/12/Heaps and Heapsort.md",
-    "CM20254/12/Heap-based Treesort.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "CM20254/12",
@@ -211,7 +212,6 @@
     "CM20315/12",
     "CM20315/11/Manipulating Expectations",
     "CM20315/11",
-    "Untitled",
-    "CM20217/ContextFree"
+    "Untitled"
   ]
 }

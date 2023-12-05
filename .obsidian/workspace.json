@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CM20315/14/Receptive-Fields-img.md",
+                "file": "CM20315/14/Receptive Fields.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CM20315/14/Receptive-Fields-img.md",
+                "file": "CM20315/14/Receptive Fields.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CM20315/14/Receptive-Fields-img.md",
+                "file": "CM20315/14/Receptive Fields.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CM20315/14/Receptive-Fields-img.md"
+                "file": "CM20315/14/Receptive Fields.md"
               }
             }
           },
@@ -165,11 +165,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "86b7d51b7c648ec8",
+  "active": "de6122c83ae027a0",
   "lastOpenFiles": [
     "CM20315/14/ReceptiveFields-img.png",
     "CM20315/14/Channels.md",
-    "CM20315/14/Receptive-Fields-img.md",
+    "CM20315/14/Receptive Fields.md",
     "CM20315/14/channels-img.png",
     "CM20315/14/Convolutional Networks.md",
     "CM20315/14/Networks for Images.md",

@@ -43,17 +43,5 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": [
-    {
-      "id": "77724806594a667f",
-      "parent": 0,
-      "droppable": true,
-      "text": "s - Google Search",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    }
-  ]
+  "treeData": []
 }

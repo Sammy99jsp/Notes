@@ -13,36 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CM20217/TuringMachines/Defining complexity of TMs.md",
+                "file": "CM20217/Complexity Classes/Complexity Classes.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "8973f3b25e1cc5fb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c08ccd864e1b338f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://bath-prod-sss1.s3.eu-west-1.amazonaws.com/2c/a6/2ca63dee7d8cde21287493683b86d97f6fdb7c3c?response-content-disposition=inline%3B%20filename%3D%22foc-17.pdf%22&response-content-type=application%2Fpdf&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJBFBMNJTZPM2NVZA%2F20231205%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20231205T132536Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21564&X-Amz-Signature=00001e40a5df9951aa0fcb4f955119c7ea83be74d825eb9585c2d8e94855217a"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "7698c16d2884c9b2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -103,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 301.5,
+    "collapsed": true
   },
   "right": {
     "id": "b34c62572300ef7f",
@@ -119,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CM20217/TuringMachines/Defining complexity of TMs.md",
+                "file": "CM20217/Complexity Classes/Complexity Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CM20217/TuringMachines/Defining complexity of TMs.md",
+                "file": "CM20217/Complexity Classes/Complexity Classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CM20217/TuringMachines/Defining complexity of TMs.md"
+                "file": "CM20217/Complexity Classes/Complexity Classes.md"
               }
             }
           },
@@ -193,6 +168,8 @@
   },
   "active": "de6122c83ae027a0",
   "lastOpenFiles": [
+    "CM20217/Complexity Classes/Complexity Classes.md",
+    "CM20217/Complexity Classes",
     "CM20217/TuringMachines/Complexity.md",
     "CM20217/TuringMachines/Defining complexity of TMs.md",
     "CM20217/TuringMachines/Formal Definition.md",
@@ -220,8 +197,6 @@
     "CM20254/14/Untitled.md",
     "CM20254/14/Subgraph.md",
     "CM20254/14/Spanning Trees.md",
-    "CM20254/14/Spanning.md",
-    "CM20254/14/Minimum Spanning Trees.md",
     "CM20254/14",
     "CM20315/14",
     "CM20315/13",
@@ -239,7 +214,6 @@
     "CM20217/TuringMachines",
     "CM20217/_/Group 1.png",
     "CM20315/12",
-    "CM20315/11/Manipulating Expectations",
-    "CM20315/11"
+    "CM20315/11/Manipulating Expectations"
   ]
 }

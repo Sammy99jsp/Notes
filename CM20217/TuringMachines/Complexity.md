@@ -59,7 +59,7 @@ Let $M_2$ be the Turing machine that determines whether a stack of $a$-s is odd 
 \draw (45.3,-12.4) node {$q$};
 \draw [black] (45.3,-12.4) circle (2.4);
 \draw [black] (25.7,-25.1) circle (3);
-\draw (25.7,-25.1) node {$h$};
+\draw (25.7,-25.1) node {$e$};
 \draw [black] (25.7,-25.1) circle (2.4);
 \draw [black] (45.3,-25.1) circle (3);
 \draw (45.3,-25.1) node {$o$};
@@ -83,3 +83,4 @@ Let $M_2$ be the Turing machine that determines whether a stack of $a$-s is odd 
 \end{document}
 ```
 
+Here, for an input $a^n$, you see we take $n+1$ steps, so we can measure the 'complexity' as $n \mapsto n+1$.

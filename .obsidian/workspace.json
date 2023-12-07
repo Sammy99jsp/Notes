@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CM20217/TuringMachines/Complexity.md",
+                "file": "CM20217/TuringMachines/Defining complexity of TMs.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CM20217/TuringMachines/Complexity.md",
+                "file": "CM20217/TuringMachines/Defining complexity of TMs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CM20217/TuringMachines/Complexity.md",
+                "file": "CM20217/TuringMachines/Defining complexity of TMs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CM20217/TuringMachines/Complexity.md"
+                "file": "CM20217/TuringMachines/Defining complexity of TMs.md"
               }
             }
           },
@@ -193,13 +193,14 @@
   },
   "active": "de6122c83ae027a0",
   "lastOpenFiles": [
+    "CM20217/TuringMachines/Complexity.md",
+    "CM20217/TuringMachines/Defining complexity of TMs.md",
     "CM20217/TuringMachines/Formal Definition.md",
     "CM20217/TuringMachines/Decidable.md",
     "CM20217/TuringMachines/Definition.md",
     "CM20217/TuringMachines/Computations in TM.md",
     "CM20217/TuringMachines/Computing DFAs with TMs.md",
     "CM20217/TuringMachines/Aside - Russel's Paradox.md",
-    "CM20217/TuringMachines/Complexity.md",
     "CM20217/TuringMachines/Configurations.md",
     "CM20217/TuringMachines/Computing NFAs with TMs.md",
     "CM20217/TuringMachines/As State Diagrams.md",
@@ -222,7 +223,6 @@
     "CM20254/14/Spanning.md",
     "CM20254/14/Minimum Spanning Trees.md",
     "CM20254/14",
-    "CM20217/TuringMachines/The Halting Problem.md",
     "CM20315/14",
     "CM20315/13",
     "CM20254/13",

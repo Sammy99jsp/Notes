@@ -1,3 +1,7 @@
+---
+slides: https://moodle.bath.ac.uk/mod/resource/view.php?id=1303250
+---
+
 ### Haskell is...
 * Functional — *nearly* everything is a function (see [Currying]).
 * Statically-typed — [Types] are enforced and checked at runtime.

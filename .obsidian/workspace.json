@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2f48dbbe5d63da8d",
+        "id": "15c7bcfc61292855",
         "type": "tabs",
         "children": [
           {
-            "id": "de6122c83ae027a0",
+            "id": "e20a42140fe0ca69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CM20217/Complexity Classes/Complexity Classes.md",
+                "file": "CM20256/Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5,
-    "collapsed": true
+    "width": 301.5
   },
   "right": {
     "id": "b34c62572300ef7f",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CM20217/Complexity Classes/Complexity Classes.md",
+                "file": "CM20256/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CM20217/Complexity Classes/Complexity Classes.md",
+                "file": "CM20256/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CM20217/Complexity Classes/Complexity Classes.md"
+                "file": "CM20256/Introduction.md"
               }
             }
           },
@@ -166,8 +165,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de6122c83ae027a0",
+  "active": "e20a42140fe0ca69",
   "lastOpenFiles": [
+    "CM20254/01.md",
+    "CM20256/Introduction.md",
+    "CM20256",
+    "CM20314/00.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "CM20217/Complexity Classes/Complexity Classes.md",
     "CM20217/Complexity Classes",
     "CM20217/TuringMachines/Complexity.md",
@@ -195,14 +200,10 @@
     "CM20254/14/Kruskal's Algorithm - Correctness.md",
     "CM20254/14/Kruskal's Alogirithm.md",
     "CM20254/14/Untitled.md",
-    "CM20254/14/Subgraph.md",
-    "CM20254/14/Spanning Trees.md",
     "CM20254/14",
     "CM20315/14",
     "CM20315/13",
     "CM20254/13",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
     "CM20254/12",
     "CM20315/12/bias-variance-tradeoff.png",
     "CM20315/12/increased-bias.png",
@@ -213,7 +214,6 @@
     "CM20217/TuringMachines/tape.png",
     "CM20217/TuringMachines",
     "CM20217/_/Group 1.png",
-    "CM20315/12",
-    "CM20315/11/Manipulating Expectations"
+    "CM20315/12"
   ]
 }

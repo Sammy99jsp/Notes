@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CM20256/Introduction.md",
+                "file": "CM20256/Lists.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CM20256/Introduction.md",
+                "file": "CM20256/Lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CM20256/Introduction.md",
+                "file": "CM20256/Lists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CM20256/Introduction.md"
+                "file": "CM20256/Lists.md"
               }
             }
           },
@@ -167,8 +167,11 @@
   },
   "active": "e20a42140fe0ca69",
   "lastOpenFiles": [
-    "CM20254/01.md",
+    "CM20256/Currying.md",
+    "CM20256/Lists.md",
+    "CM20256/Types.md",
     "CM20256/Introduction.md",
+    "CM20254/01.md",
     "CM20256",
     "CM20314/00.md",
     "Untitled 1.canvas",
@@ -197,9 +200,6 @@
     "CM20315/14/Convolutional Networks.md",
     "CM20315/14/Networks for Images.md",
     "CM20254/Kruskal's Algorithm.md",
-    "CM20254/14/Kruskal's Algorithm - Correctness.md",
-    "CM20254/14/Kruskal's Alogirithm.md",
-    "CM20254/14/Untitled.md",
     "CM20254/14",
     "CM20315/14",
     "CM20315/13",

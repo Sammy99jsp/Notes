@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CM20315-2/Introduction.md",
+                "file": "CM20318/Styles of Programming.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CM20315-2/Introduction.md",
+                "file": "CM20318/Styles of Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CM20315-2/Introduction.md",
+                "file": "CM20318/Styles of Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CM20315-2/Introduction.md"
+                "file": "CM20318/Styles of Programming.md"
               }
             }
           },
@@ -165,10 +165,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e20a42140fe0ca69",
+  "active": "86b7d51b7c648ec8",
   "lastOpenFiles": [
-    "CM20315-2/Notation.md",
     "CM20315-2/Introduction.md",
+    "CM20318/Styles of Programming.md",
+    "CM20318",
+    "CM20315-2/Notation.md",
     "CM20256/Introduction.md",
     "CM20256/Lists.md",
     "CM20315-2",
@@ -200,7 +202,6 @@
     "CM20315/14/ReceptiveFields-img.png",
     "CM20315/14/Channels.md",
     "CM20315/14/channels-img.png",
-    "CM20315/14/Convolutional Networks.md",
     "CM20254/14",
     "CM20315/14",
     "CM20315/13",
@@ -213,7 +214,6 @@
     "CM20217/TuringMachines/State.png",
     "CM20217/10/Pasted image 20231123104657 1.png",
     "CM20217/TuringMachines/tape.png",
-    "CM20217/TuringMachines",
     "CM20217/_/Group 1.png"
   ]
 }

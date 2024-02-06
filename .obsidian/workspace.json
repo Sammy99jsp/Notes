@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CM20318/Styles of Programming.md",
+                "file": "CM20319/Introducction.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CM20318/Styles of Programming.md",
+                "file": "CM20319/Introducction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CM20318/Styles of Programming.md",
+                "file": "CM20319/Introducction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CM20318/Styles of Programming.md"
+                "file": "CM20319/Introducction.md"
               }
             }
           },
@@ -165,10 +165,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "86b7d51b7c648ec8",
+  "active": "e20a42140fe0ca69",
   "lastOpenFiles": [
-    "CM20315-2/Introduction.md",
     "CM20318/Styles of Programming.md",
+    "CM20319/Introducction.md",
+    "CM20319",
+    "CM20315-2/Introduction.md",
     "CM20318",
     "CM20315-2/Notation.md",
     "CM20256/Introduction.md",
@@ -200,13 +202,11 @@
     "CM20217/Complexity",
     "CM20315/14/Receptive Fields.md",
     "CM20315/14/ReceptiveFields-img.png",
-    "CM20315/14/Channels.md",
     "CM20315/14/channels-img.png",
     "CM20254/14",
     "CM20315/14",
     "CM20315/13",
     "CM20254/13",
-    "CM20254/12",
     "CM20315/12/bias-variance-tradeoff.png",
     "CM20315/12/increased-bias.png",
     "CM20315/12/reduce-bias.png",

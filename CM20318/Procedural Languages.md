@@ -1,0 +1,3 @@
+Examples: C, Fortran, COBOL, ...
+Purpose: *General Programming*
+Features: use of procedures (functions) to provide structure.

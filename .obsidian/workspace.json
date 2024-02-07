@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CM20319/The WIMP Paradigm.md",
+                "file": "CM20319/Direct Manipulation.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CM20319/Direct Manipulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CM20319/Direct Manipulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CM20319/Direct Manipulation.md"
+              }
             }
           },
           {
@@ -179,9 +183,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6adaa0c1d9125ffa",
+  "active": "e20a42140fe0ca69",
   "lastOpenFiles": [
     "CM20319/The WIMP Paradigm.md",
+    "CM20319/Direct Manipulation.md",
     "CM20319/User Interfaces.md",
     "CM20318/Logic Languages.md",
     "CM20318/Procedural Languages.md",
@@ -214,7 +219,6 @@
     "CM20217/TuringMachines/Definition.md",
     "CM20217/TuringMachines/Computations in TM.md",
     "CM20217/TuringMachines/Computing DFAs with TMs.md",
-    "CM20217/TuringMachines/Aside - Russel's Paradox.md",
     "CM20217/Complexity",
     "CM20315/14/ReceptiveFields-img.png",
     "CM20315/14/channels-img.png",

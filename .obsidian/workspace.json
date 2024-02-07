@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CM20318/Procedural Languages.md",
+                "file": "CM20318/Logic Languages.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CM20318/Procedural Languages.md",
+                "file": "CM20318/Logic Languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CM20318/Procedural Languages.md",
+                "file": "CM20318/Logic Languages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CM20318/Procedural Languages.md"
+                "file": "CM20318/Logic Languages.md"
               }
             }
           },
@@ -167,8 +167,9 @@
   },
   "active": "e20a42140fe0ca69",
   "lastOpenFiles": [
-    "CM20318/Unstructured Languages.md",
     "CM20318/Procedural Languages.md",
+    "CM20318/Logic Languages.md",
+    "CM20318/Unstructured Languages.md",
     "CM20318/Programming Families.md",
     "CM20318/Unstructured Languages/ASM Assembly.md",
     "CM20318/Unstructured Languages",
@@ -200,7 +201,6 @@
     "CM20217/TuringMachines/Aside - Russel's Paradox.md",
     "CM20217/TuringMachines/Configurations.md",
     "CM20217/TuringMachines/Computing NFAs with TMs.md",
-    "CM20217/TuringMachines/As State Diagrams.md",
     "CM20217/Complexity",
     "CM20315/14/ReceptiveFields-img.png",
     "CM20315/14/channels-img.png",

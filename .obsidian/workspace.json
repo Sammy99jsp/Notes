@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CM20319/Implementing UIs/Implementing UIs.md",
+                "file": "CM20319/Implementing UIs/Event Handlers.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CM20319/Implementing UIs/Implementing UIs.md",
+                "file": "CM20319/Implementing UIs/Event Handlers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CM20319/Implementing UIs/Implementing UIs.md",
+                "file": "CM20319/Implementing UIs/Event Handlers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CM20319/Implementing UIs/Implementing UIs.md"
+                "file": "CM20319/Implementing UIs/Event Handlers.md"
               }
             }
           },
@@ -183,11 +183,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "86b7d51b7c648ec8",
+  "active": "e20a42140fe0ca69",
   "lastOpenFiles": [
+    "CM20319/Implementing UIs/Implementing UIs.md",
+    "CM20319/Implementing UIs/Event Handlers.md",
+    "CM20319/Implementing UIs/View Hierarchies.md",
+    "Pasted image 20240207120507.png",
+    "CM20319/Implementing UIs/The Model-View-Controller Pattern.md",
+    "Pasted image 20240207115901.png",
+    "Pasted image 20240207115708.png",
+    "Pasted image 20240207115611.png",
     "CM20319/Implementing UIs",
     "CM20319/Introduction.md",
-    "CM20319/Implementing UIs/Implementing UIs.md",
     "Untitled.canvas",
     "CM20319/Direct Manipulation.md",
     "CM20319/The WIMP Paradigm.md",
@@ -217,21 +224,14 @@
     "CM20217/TuringMachines/Complexity.md",
     "CM20217/TuringMachines/Defining complexity of TMs.md",
     "CM20217/TuringMachines/Formal Definition.md",
-    "CM20217/TuringMachines/Decidable.md",
-    "CM20217/TuringMachines/Definition.md",
     "CM20217/Complexity",
     "CM20315/14/ReceptiveFields-img.png",
     "CM20315/14/channels-img.png",
     "CM20254/14",
     "CM20315/14",
-    "CM20315/13",
     "CM20315/12/bias-variance-tradeoff.png",
     "CM20315/12/increased-bias.png",
     "CM20315/12/reduce-bias.png",
-    "CM20315/12/variance-reduction.png",
-    "CM20217/TuringMachines/State.png",
-    "CM20217/10/Pasted image 20231123104657 1.png",
-    "CM20217/TuringMachines/tape.png",
-    "CM20217/_/Group 1.png"
+    "CM20315/12/variance-reduction.png"
   ]
 }

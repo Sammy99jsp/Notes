@@ -1,0 +1,2 @@
+Inputs are typically handled based on the *Listener pattern*.
+Each event source generates a stream of different events, to which views can *subscribe* to. When a new event occurs, the subscribed views' event *listener*s are called.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CM20319/Direct Manipulation.md",
+                "file": "CM20319/Implementing UIs/Implementing UIs.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CM20319/Direct Manipulation.md",
+                "file": "CM20319/Implementing UIs/Implementing UIs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CM20319/Direct Manipulation.md",
+                "file": "CM20319/Implementing UIs/Implementing UIs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CM20319/Direct Manipulation.md"
+                "file": "CM20319/Implementing UIs/Implementing UIs.md"
               }
             }
           },
@@ -183,10 +183,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e20a42140fe0ca69",
+  "active": "86b7d51b7c648ec8",
   "lastOpenFiles": [
-    "CM20319/The WIMP Paradigm.md",
+    "CM20319/Implementing UIs",
+    "CM20319/Introduction.md",
+    "CM20319/Implementing UIs/Implementing UIs.md",
+    "Untitled.canvas",
     "CM20319/Direct Manipulation.md",
+    "CM20319/The WIMP Paradigm.md",
     "CM20319/User Interfaces.md",
     "CM20318/Logic Languages.md",
     "CM20318/Procedural Languages.md",
@@ -195,7 +199,6 @@
     "CM20318/Unstructured Languages/ASM Assembly.md",
     "CM20318/Unstructured Languages",
     "CM20318/Styles of Programming.md",
-    "CM20319/Introducction.md",
     "CM20319",
     "CM20315-2/Introduction.md",
     "CM20318",
@@ -209,7 +212,6 @@
     "CM20256",
     "CM20314/00.md",
     "Untitled 1.canvas",
-    "Untitled.canvas",
     "CM20217/Complexity Classes/Complexity Classes.md",
     "CM20217/Complexity Classes",
     "CM20217/TuringMachines/Complexity.md",
@@ -217,8 +219,6 @@
     "CM20217/TuringMachines/Formal Definition.md",
     "CM20217/TuringMachines/Decidable.md",
     "CM20217/TuringMachines/Definition.md",
-    "CM20217/TuringMachines/Computations in TM.md",
-    "CM20217/TuringMachines/Computing DFAs with TMs.md",
     "CM20217/Complexity",
     "CM20315/14/ReceptiveFields-img.png",
     "CM20315/14/channels-img.png",

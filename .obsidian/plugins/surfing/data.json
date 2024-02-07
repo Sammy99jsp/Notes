@@ -43,5 +43,17 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": []
+  "treeData": [
+    {
+      "id": "6adaa0c1d9125ffa",
+      "parent": 0,
+      "droppable": true,
+      "text": "HCIUX 1.2 - Coursework overview",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    }
+  ]
 }

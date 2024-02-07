@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "3e339922bad905ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6adaa0c1d9125ffa",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://bath-prod-sss1.s3.eu-west-1.amazonaws.com/6d/dc/6ddc157e011439894667118e8c41230a2daf6a2b?response-content-disposition=inline%3B%20filename%3D%22HCIUX%201.2%20-%20Lecture%20coursework%20and%20fundamentals.pdf%22&response-content-type=application%2Fpdf&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJBFBMNJTZPM2NVZA%2F20240207%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20240207T093752Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21548&X-Amz-Signature=6ba68763017c913a54c24303c9773b543676dbe02087914c4eb07e914975c3a3"
+              },
+              "pinned": true
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CM20319/The WIMP Paradigm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +127,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CM20319/The WIMP Paradigm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +148,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CM20319/The WIMP Paradigm.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,10 +179,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e20a42140fe0ca69",
+  "active": "6adaa0c1d9125ffa",
   "lastOpenFiles": [
-    "CM20319/User Interfaces.md",
     "CM20319/The WIMP Paradigm.md",
+    "CM20319/User Interfaces.md",
     "CM20318/Logic Languages.md",
     "CM20318/Procedural Languages.md",
     "CM20318/Unstructured Languages.md",

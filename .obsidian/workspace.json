@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CM20319/The WIMP Paradigm.md",
+                "file": "CM20256/Pattern Matching.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CM20319/The WIMP Paradigm.md",
+                "file": "CM20256/Pattern Matching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CM20319/The WIMP Paradigm.md",
+                "file": "CM20256/Pattern Matching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CM20319/The WIMP Paradigm.md"
+                "file": "CM20256/Pattern Matching.md"
               }
             }
           },
@@ -167,19 +167,20 @@
   },
   "active": "1b7cd4fda2cb47da",
   "lastOpenFiles": [
-    "CM20319/Direct Manipulation.md",
-    "CM20319/The WIMP Paradigm.md",
-    "CM20319/Implementing UIs/Event Handlers.md",
+    "CM20319/Pasted image 20240207120507.png",
+    "CM20256/Pattern Matching.md",
+    "Pasted image 20240207115708.png",
+    "Pasted image 20240207115901.png",
+    "CM20319/Pasted image 20240207115611.png",
     "CM20319/User Interfaces.md",
+    "CM20319/The WIMP Paradigm.md",
+    "CM20319/Direct Manipulation.md",
+    "CM20319/Implementing UIs/Event Handlers.md",
     "CM20319/Lecture 1.md",
     "CM20319/Implementing UIs/The Model-View-Controller Pattern.md",
     "CM20319/Implementing UIs/Implementing UIs.md",
     "Event handling.md",
     "CM20319/Implementing UIs/View Hierarchies.md",
-    "Pasted image 20240207120507.png",
-    "Pasted image 20240207115901.png",
-    "Pasted image 20240207115708.png",
-    "Pasted image 20240207115611.png",
     "CM20319/Implementing UIs",
     "Untitled.canvas",
     "CM20318/Logic Languages.md",
@@ -204,8 +205,6 @@
     "Untitled 1.canvas",
     "CM20217/Complexity Classes/Complexity Classes.md",
     "CM20217/Complexity Classes",
-    "CM20217/TuringMachines/Complexity.md",
-    "CM20217/TuringMachines/Defining complexity of TMs.md",
     "CM20217/Complexity",
     "CM20315/14/ReceptiveFields-img.png",
     "CM20315/14/channels-img.png",

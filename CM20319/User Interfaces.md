@@ -30,3 +30,5 @@ The process of asking questions such as:
 - How much do the users need to know about the functions:
 	- Which input is required?
 	- Comprehending the output.
+
+See [[The WIMP Paradigm]].

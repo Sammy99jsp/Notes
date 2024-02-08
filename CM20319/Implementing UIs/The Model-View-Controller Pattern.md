@@ -5,3 +5,21 @@ The Model-View-Controller (MVC) pattern is omnipresent for implementing such sta
 	- managing the state machine in response to input events,
 	- executing commands, and 
 	- updating the model.
+
+An example MVC pattern for the previous button example is in this code:
+```tsx
+// Model
+let mouse_over = false;
+let is_pressed = false;
+
+// View
+if (is_pressed) {
+  display(<PressedButton></PressedButton>);
+} else {
+  display(<UnpressedButton></UnpressedButton>);
+}
+
+// Controller
+Mouse.onMove((position) => mouse_over = self.is_inside(position));
+Mouse.onButton((pressed) => is_pressed = mouse_over && pressed);
+```

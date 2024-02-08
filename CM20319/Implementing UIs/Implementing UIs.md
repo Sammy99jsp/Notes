@@ -1,7 +1,7 @@
 UIs can be thought of being a combination of three things:
 1. Rendering the UI (Output)
-2. [Event Handlers|Event handling] (Input)
-3. State management.
+2. [[Event Handlers|Event handling]] (Input)
+3. State management (see [[The Model-View-Controller Pattern|MVC]] pattern).
 
 ### Example — A Button
 ![[Pasted image 20240207115901.png]]

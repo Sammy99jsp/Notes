@@ -44,3 +44,4 @@ Some peculiarities in Perl include:
 - *Variable Sigils* — `$` for scalars, `@` for arrays, `&` for functions (you can even have `$a`, `@a`, `&a` all simultaneously in scope!)
 - *Default Variables* — In Perl, `$_` is a default variable (depending on the context), so functions like `print` use that default variables.
 ### Python
+z

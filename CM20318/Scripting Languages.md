@@ -24,6 +24,23 @@ They don't require a GUI which means they can be used nearly everywhere (even wh
 
 `sed` was succeeded by `awk`, and then Perl.
 
+### Perl
 Perl is its own programming language, whose notable features include string pattern matching, first-class functions, and objects!  
+```perl
+open IN, '<', 'infile';
+open OUT, '>outfile';
+$count = 0;
+while (<IN>) {
+s/world/everybody/ if (/hello/);
+print OUT;
+$count++;
+}
+close IN;
+close OUT;
+print "$count lines\n";
+```
 
-Perl 
+Some peculiarities in Perl include:
+- *Variable Sigils* — `$` for scalars, `@` for arrays, `&` for functions (you can even have `$a`, `@a`, `&a` all simultaneously in scope!)
+- *Default Variables* — In Perl, `$_` is a default variable (depending on the context), so functions like `print` use that default variables.
+### Python

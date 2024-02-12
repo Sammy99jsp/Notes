@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9050c066515bb7f9",
+        "id": "6b28d923ad501035",
         "type": "tabs",
         "children": [
           {
-            "id": "1b7cd4fda2cb47da",
+            "id": "4e466f86ef4ed664",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CM20256/Lists.md",
+                "file": "CM20315-2/Making Decision Trees.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CM20256/Lists.md",
+                "file": "CM20315-2/Making Decision Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CM20256/Lists.md",
+                "file": "CM20315-2/Making Decision Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CM20256/Lists.md"
+                "file": "CM20315-2/Making Decision Trees.md"
               }
             }
           },
@@ -165,13 +165,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b7cd4fda2cb47da",
+  "active": "4e466f86ef4ed664",
   "lastOpenFiles": [
+    "CM20315-2/Decision Trees.md",
+    "CM20315-2/Making Decision Trees.md",
+    "CM20315-2/Introduction.md",
+    "CM20315-2/Logistic Regression.md",
+    "CM20315-2/Classification Problems.md",
+    "Pasted image 20240212153601.png",
+    "CM20315-2/Notation.md",
+    "CM20256/Lists.md",
     "CM20318/Scripting Languages.md",
     "CM20318/Macro Languages.md",
     "CM20318/Functional Languages.md",
-    "CM20315-2/Logistic Regression.md",
-    "CM20315-2/Classification Problems.md",
     "CM20256/Pattern Matching.md",
     "CM20319/Pasted image 20240207120507.png",
     "Pasted image 20240207115708.png",
@@ -196,13 +202,8 @@
     "CM20318/Unstructured Languages",
     "CM20318/Styles of Programming.md",
     "CM20319",
-    "CM20315-2/Introduction.md",
     "CM20318",
-    "CM20315-2/Notation.md",
-    "CM20256/Introduction.md",
-    "CM20256/Lists.md",
     "CM20315-2",
-    "CM20256/Currying.md",
     "CM20256",
     "Untitled 1.canvas",
     "CM20217/Complexity Classes",
@@ -213,7 +214,6 @@
     "CM20315/14",
     "CM20315/12/bias-variance-tradeoff.png",
     "CM20315/12/increased-bias.png",
-    "CM20315/12/reduce-bias.png",
-    "CM20315/12/variance-reduction.png"
+    "CM20315/12/reduce-bias.png"
   ]
 }

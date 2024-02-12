@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CM20315-2/Logistic Regression.md",
+                "file": "CM20318/Scripting Languages.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CM20315-2/Logistic Regression.md",
+                "file": "CM20318/Scripting Languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CM20315-2/Logistic Regression.md",
+                "file": "CM20318/Scripting Languages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CM20315-2/Logistic Regression.md"
+                "file": "CM20318/Scripting Languages.md"
               }
             }
           },
@@ -167,8 +167,11 @@
   },
   "active": "1b7cd4fda2cb47da",
   "lastOpenFiles": [
-    "CM20315-2/Classification Problems.md",
+    "CM20318/Macro Languages.md",
+    "CM20318/Scripting Languages.md",
+    "CM20318/Functional Languages.md",
     "CM20315-2/Logistic Regression.md",
+    "CM20315-2/Classification Problems.md",
     "CM20256/Pattern Matching.md",
     "CM20319/Pasted image 20240207120507.png",
     "Pasted image 20240207115708.png",
@@ -200,10 +203,7 @@
     "CM20256/Lists.md",
     "CM20315-2",
     "CM20256/Currying.md",
-    "CM20256/Types.md",
-    "CM20254/01.md",
     "CM20256",
-    "CM20314/00.md",
     "Untitled 1.canvas",
     "CM20217/Complexity Classes",
     "CM20217/Complexity",

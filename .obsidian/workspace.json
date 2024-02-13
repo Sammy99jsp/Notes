@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CM20318/Dataflow Languages.md",
+                "file": "CM20318/Markup Languages.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CM20318/Dataflow Languages.md",
+                "file": "CM20318/Markup Languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CM20318/Dataflow Languages.md",
+                "file": "CM20318/Markup Languages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CM20318/Dataflow Languages.md"
+                "file": "CM20318/Markup Languages.md"
               }
             }
           },
@@ -167,8 +167,10 @@
   },
   "active": "401a7c0458c304ff",
   "lastOpenFiles": [
-    "CM20318/Event-Driven Languages.md",
     "CM20318/Dataflow Languages.md",
+    "CM20318/Markup Languages.md",
+    "CM20318/Untitled",
+    "CM20318/Event-Driven Languages.md",
     "CM20318/Untitled.md",
     "CM20319/User-centred Design/Involving Users.md",
     "CM20319/User-centred Design/Benefits of UCD.md",
@@ -199,7 +201,6 @@
     "CM20319/Lecture 1.md",
     "CM20319/Implementing UIs/The Model-View-Controller Pattern.md",
     "CM20319/Implementing UIs/Implementing UIs.md",
-    "Event handling.md",
     "CM20319/Implementing UIs",
     "Untitled.canvas",
     "CM20318/Unstructured Languages",
@@ -212,7 +213,6 @@
     "CM20217/Complexity",
     "CM20315/14/ReceptiveFields-img.png",
     "CM20315/14/channels-img.png",
-    "CM20254/14",
     "CM20315/12/bias-variance-tradeoff.png",
     "CM20315/12/increased-bias.png"
   ]

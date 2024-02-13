@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6b28d923ad501035",
+        "id": "f9497b5af02625e7",
         "type": "tabs",
         "children": [
           {
-            "id": "4e466f86ef4ed664",
+            "id": "401a7c0458c304ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CM20318/Event-Driven Languages.md",
+                "file": "CM20319/User-centred Design/Involving Users.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CM20318/Event-Driven Languages.md",
+                "file": "CM20319/User-centred Design/Involving Users.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CM20318/Event-Driven Languages.md",
+                "file": "CM20319/User-centred Design/Involving Users.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CM20318/Event-Driven Languages.md"
+                "file": "CM20319/User-centred Design/Involving Users.md"
               }
             }
           },
@@ -165,10 +165,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e466f86ef4ed664",
+  "active": "401a7c0458c304ff",
   "lastOpenFiles": [
-    "CM20318/Scripting Languages.md",
+    "CM20319/User-centred Design/Benefits of UCD.md",
+    "CM20319/User-centred Design/Involving Users.md",
+    "CM20319/User-centred Design/User-Centred Design.md",
+    "CM20319/User-centred Design/UCD-Cycle.png",
+    "CM20319/User-centred Design/System-Centred Design.md",
+    "CM20319/The WIMP Paradigm.md",
+    "CM20319/User-centred Design",
+    "CM20319/Pasted image 20240207120507.png",
     "CM20318/Event-Driven Languages.md",
+    "CM20318/Scripting Languages.md",
     "CM20315-2/Making Decision Trees.md",
     "CM20315-2/Decision Trees.md",
     "CM20315-2/Introduction.md",
@@ -180,12 +188,10 @@
     "CM20318/Macro Languages.md",
     "CM20318/Functional Languages.md",
     "CM20256/Pattern Matching.md",
-    "CM20319/Pasted image 20240207120507.png",
     "Pasted image 20240207115708.png",
     "Pasted image 20240207115901.png",
     "CM20319/Pasted image 20240207115611.png",
     "CM20319/User Interfaces.md",
-    "CM20319/The WIMP Paradigm.md",
     "CM20319/Direct Manipulation.md",
     "CM20319/Implementing UIs/Event Handlers.md",
     "CM20319/Lecture 1.md",
@@ -196,10 +202,6 @@
     "CM20319/Implementing UIs",
     "Untitled.canvas",
     "CM20318/Logic Languages.md",
-    "CM20318/Procedural Languages.md",
-    "CM20318/Unstructured Languages.md",
-    "CM20318/Programming Families.md",
-    "CM20318/Unstructured Languages/ASM Assembly.md",
     "CM20318/Unstructured Languages",
     "CM20319",
     "CM20318",
@@ -211,9 +213,7 @@
     "CM20315/14/ReceptiveFields-img.png",
     "CM20315/14/channels-img.png",
     "CM20254/14",
-    "CM20315/14",
     "CM20315/12/bias-variance-tradeoff.png",
-    "CM20315/12/increased-bias.png",
-    "CM20315/12/reduce-bias.png"
+    "CM20315/12/increased-bias.png"
   ]
 }

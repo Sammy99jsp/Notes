@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CM20318/Scripting Languages.md",
+                "file": "CM20318/Event-Driven Languages.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CM20318/Scripting Languages.md",
+                "file": "CM20318/Event-Driven Languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CM20318/Scripting Languages.md",
+                "file": "CM20318/Event-Driven Languages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CM20318/Scripting Languages.md"
+                "file": "CM20318/Event-Driven Languages.md"
               }
             }
           },
@@ -167,6 +167,8 @@
   },
   "active": "4e466f86ef4ed664",
   "lastOpenFiles": [
+    "CM20318/Scripting Languages.md",
+    "CM20318/Event-Driven Languages.md",
     "CM20315-2/Making Decision Trees.md",
     "CM20315-2/Decision Trees.md",
     "CM20315-2/Introduction.md",
@@ -175,7 +177,6 @@
     "Pasted image 20240212153601.png",
     "CM20315-2/Notation.md",
     "CM20256/Lists.md",
-    "CM20318/Scripting Languages.md",
     "CM20318/Macro Languages.md",
     "CM20318/Functional Languages.md",
     "CM20256/Pattern Matching.md",
@@ -200,7 +201,6 @@
     "CM20318/Programming Families.md",
     "CM20318/Unstructured Languages/ASM Assembly.md",
     "CM20318/Unstructured Languages",
-    "CM20318/Styles of Programming.md",
     "CM20319",
     "CM20318",
     "CM20315-2",

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CM20318/Declarative Languages.md",
+                "file": "CM20319/Entity-Relationship Techniques.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CM20318/Declarative Languages.md",
+                "file": "CM20319/Entity-Relationship Techniques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CM20318/Declarative Languages.md",
+                "file": "CM20319/Entity-Relationship Techniques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CM20318/Declarative Languages.md"
+                "file": "CM20319/Entity-Relationship Techniques.md"
               }
             }
           },
@@ -180,8 +180,9 @@
   },
   "active": "47fbf2a5ddb972f5",
   "lastOpenFiles": [
-    "CM20318/Imperative Languages.md",
     "CM20318/Declarative Languages.md",
+    "CM20319/Entity-Relationship Techniques.md",
+    "CM20318/Imperative Languages.md",
     "CM20318/Language Familes/Actor Languages.md",
     "CM20318/Language Familes",
     "CM20318/Language Familes/Object-Oriented Languages.md",
@@ -213,7 +214,6 @@
     "Pasted image 20240207115901.png",
     "CM20319/Pasted image 20240207115611.png",
     "CM20319/User Interfaces.md",
-    "CM20319/Direct Manipulation.md",
     "CM20319/Implementing UIs",
     "Untitled.canvas",
     "CM20318/Unstructured Languages",

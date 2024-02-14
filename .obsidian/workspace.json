@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CM20318/Markup Languages.md",
+                "file": "CM20318/Language Familes/Actor Languages.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47fbf2a5ddb972f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CM20318/Declarative Languages.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CM20318/Markup Languages.md",
+                "file": "CM20318/Declarative Languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CM20318/Markup Languages.md",
+                "file": "CM20318/Declarative Languages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CM20318/Markup Languages.md"
+                "file": "CM20318/Declarative Languages.md"
               }
             }
           },
@@ -165,12 +178,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "401a7c0458c304ff",
+  "active": "47fbf2a5ddb972f5",
   "lastOpenFiles": [
-    "CM20318/Dataflow Languages.md",
-    "CM20318/Markup Languages.md",
-    "CM20318/Untitled",
-    "CM20318/Event-Driven Languages.md",
+    "CM20318/Imperative Languages.md",
+    "CM20318/Declarative Languages.md",
+    "CM20318/Language Familes/Actor Languages.md",
+    "CM20318/Language Familes",
+    "CM20318/Language Familes/Object-Oriented Languages.md",
+    "CM20318/Language Familes/Markup Languages.md",
+    "CM20318/Language Familes/Dataflow Languages.md",
+    "CM20318/Language Familes/Event-Driven Languages.md",
     "CM20318/Untitled.md",
     "CM20319/User-centred Design/Involving Users.md",
     "CM20319/User-centred Design/Benefits of UCD.md",
@@ -180,7 +197,7 @@
     "CM20319/The WIMP Paradigm.md",
     "CM20319/User-centred Design",
     "CM20319/Pasted image 20240207120507.png",
-    "CM20318/Scripting Languages.md",
+    "CM20318/Language Familes/Scripting Languages.md",
     "CM20315-2/Making Decision Trees.md",
     "CM20315-2/Decision Trees.md",
     "CM20315-2/Introduction.md",
@@ -189,18 +206,14 @@
     "Pasted image 20240212153601.png",
     "CM20315-2/Notation.md",
     "CM20256/Lists.md",
-    "CM20318/Macro Languages.md",
-    "CM20318/Functional Languages.md",
+    "CM20318/Language Familes/Macro Languages.md",
+    "CM20318/Language Familes/Functional Languages.md",
     "CM20256/Pattern Matching.md",
     "Pasted image 20240207115708.png",
     "Pasted image 20240207115901.png",
     "CM20319/Pasted image 20240207115611.png",
     "CM20319/User Interfaces.md",
     "CM20319/Direct Manipulation.md",
-    "CM20319/Implementing UIs/Event Handlers.md",
-    "CM20319/Lecture 1.md",
-    "CM20319/Implementing UIs/The Model-View-Controller Pattern.md",
-    "CM20319/Implementing UIs/Implementing UIs.md",
     "CM20319/Implementing UIs",
     "Untitled.canvas",
     "CM20318/Unstructured Languages",

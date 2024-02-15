@@ -33,3 +33,4 @@ factorial' 4    = accFactorial (1 * 4) 3          -- (0)
 
 This is much easier on the computer since it can calculate the first element (the product) as-it-goes, which means its significantly more space efficient.
 
+This is known as tail-recursion, and compilers can use this to optimise the recursion into simpler iteration!

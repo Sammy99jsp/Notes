@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CM20315-2/Random Forests.md",
+                "file": "CM20318/Memory Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CM20315-2/Random Forests.md",
+                "file": "CM20318/Memory Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CM20315-2/Random Forests.md",
+                "file": "CM20318/Memory Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CM20315-2/Random Forests.md"
+                "file": "CM20318/Memory Management.md"
               }
             }
           },
@@ -167,8 +167,10 @@
   },
   "active": "1bea336f8633135c",
   "lastOpenFiles": [
-    "CM20256/Efficient Recursion.md",
+    "CM20318/Parallelism.md",
+    "CM20318/Memory Management.md",
     "CM20315-2/Random Forests.md",
+    "CM20256/Efficient Recursion.md",
     "CM20319/Entity-Relationship Techniques.md",
     "CM20318/Declarative Languages.md",
     "CM20318/Imperative Languages.md",
@@ -196,8 +198,6 @@
     "Pasted image 20240212153601.png",
     "CM20315-2/Notation.md",
     "CM20256/Lists.md",
-    "CM20318/Language Familes/Macro Languages.md",
-    "CM20318/Language Familes/Functional Languages.md",
     "Pasted image 20240207115708.png",
     "Pasted image 20240207115901.png",
     "CM20319/Pasted image 20240207115611.png",

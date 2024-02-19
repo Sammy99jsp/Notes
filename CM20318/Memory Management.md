@@ -53,8 +53,17 @@ free(my_memory_p);
 + + Easier to write code that will work
 + - Performance impacts from the GC.
 + - May encourage wasteful allocation.
+
+GC can be problematic in systems that are real-time (such as flight control systems) — often, they have to stop execution completely "stop the world" in order to do its work. In multi-threaded environments, sometimes *all the threads* need to stop for the GC to do its work. There have been many different iterations of GC (such as concurrent GC, where a separate thread is dedicated to GC), but there are problems with these, like cache misses.
 #### Manual Memory Management
 - + You can optimise your code to run quicker.
 - - So many bugs by leaving it in the programmer's hands.
+### Reading/Writing from an array/vector
+Consider the line:
+```python
+a[n] = 24;
+```
+Where `n`  is greater than the size of the vector. Some languages check to see if there are within the bounds, some don't.
 
-### 
+- The range checking slows the performance of the lookup/write operation.
+- But, it does ensure that it is safe — this is a trade-off.

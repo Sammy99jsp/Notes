@@ -9,4 +9,8 @@ Here, the blue X is closer to the greens than the reds — you're much more like
 
 What can we do?
 ### Maximal Margin Classifiers
-![[SVM1.png]]
+![[SVM1.png]]Here, we aim to make the line *exactly* in the middle — this works great!
+
+But however, we are not very good at generalising — our classification is entirely dependent on the outlying data points in each class. If the outliers change, so does the decision boundary...
+
+### Soft Margin Classifiers

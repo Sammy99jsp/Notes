@@ -87,5 +87,3 @@ This makes use of ***static analysis***. A prime example of this is the Rust lan
 The downside to this is in order for this clever analysis to work is that there are *additional rules*:
 - Lifetimes
 - Ownership
-
-The benefits are that lots of memo

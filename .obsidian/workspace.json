@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CM20319/Requirement Gathering Techniques/Requirements.md",
+                "file": "CM20318/Types/Types in Programming Languages.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CM20319/Requirement Gathering Techniques/Requirements.md",
+                "file": "CM20318/Types/Types in Programming Languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CM20319/Requirement Gathering Techniques/Requirements.md",
+                "file": "CM20318/Types/Types in Programming Languages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CM20319/Requirement Gathering Techniques/Requirements.md"
+                "file": "CM20318/Types/Types in Programming Languages.md"
               }
             }
           },
@@ -167,8 +167,11 @@
   },
   "active": "1bea336f8633135c",
   "lastOpenFiles": [
-    "CM20319/Requirement Gathering Techniques/Introduction.md",
+    "CM20318/Memory Management.md",
+    "CM20318/Types/Types in Programming Languages.md",
+    "CM20318/Types",
     "CM20319/Requirement Gathering Techniques/Requirements.md",
+    "CM20319/Requirement Gathering Techniques/Introduction.md",
     "CM20319/Task Analysis/Think-aloud Protocols.md",
     "CM20319/Requirement Gathering Techniques",
     "CM20319/Task Analysis/Gathering Data for Task Analysis.md",
@@ -177,7 +180,6 @@
     "CM20319/Task Analysis/Documentation.md",
     "CM20319/Task Analysis",
     "CM20319/Implementing UIs/Event Handlers.md",
-    "CM20318/Memory Management.md",
     "CM20315-2/Support Vector Machines.md",
     "Pasted image 20240219154934.png",
     "CM20315-2/SV0.png",
@@ -200,7 +202,6 @@
     "CM20319/User-centred Design/Benefits of UCD.md",
     "CM20319/User-centred Design/User-Centred Design.md",
     "CM20319/User-centred Design/UCD-Cycle.png",
-    "CM20319/User-centred Design/System-Centred Design.md",
     "CM20319/User-centred Design",
     "CM20319/Pasted image 20240207120507.png",
     "Pasted image 20240212153601.png",
@@ -213,7 +214,6 @@
     "CM20319",
     "CM20318",
     "CM20315-2",
-    "CM20256",
     "Untitled 1.canvas"
   ]
 }

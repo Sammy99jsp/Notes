@@ -1,0 +1,3 @@
+- Passive (just looking at someone doing a task)
+- Active (asking questions while they do it)
+- Indirect observation (such as video cameras)

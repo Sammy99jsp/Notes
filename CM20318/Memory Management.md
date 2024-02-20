@@ -55,10 +55,12 @@ free(my_memory_p);
 + - May encourage wasteful allocation.
 
 GC can be problematic in systems that are real-time (such as flight control systems) — often, they have to stop execution completely "stop the world" in order to do its work. In multi-threaded environments, sometimes *all the threads* need to stop for the GC to do its work. There have been many different iterations of GC (such as concurrent GC, where a separate thread is dedicated to GC), but there are problems with these, like cache misses.
+
+GC languages often lead to less development time — which is often the most important factor, given hardware is quite fast, and we have large amounts of memory.
 #### Manual Memory Management
 - + You can optimise your code to run quicker.
 - - So many bugs by leaving it in the programmer's hands.
-### Reading/Writing from an array/vector
+
 Consider the line:
 ```python
 a[n] = 24;
@@ -67,3 +69,23 @@ Where `n`  is greater than the size of the vector. Some languages check to see i
 
 - The range checking slows the performance of the lookup/write operation.
 - But, it does ensure that it is safe — this is a trade-off.
+### A Third Way?
+Some newer languages have newer approaches:
+#### Runtime Tracking of Allocations
+This is called *reference counting*.
+- Whenever something is made, additional metadata as also stored: a *reference count*. 
+- Whenever something is made, this count is `1`. 
+- Whenever a new reference is made (such as a new variable is made referencing this value), this is incremented.
+- Whenever a reference 'dies', this is decremented.
+- If the reference count reaches `0`, the value is deallocated.
+
+The problem is that some data structures are inherently self-referential, which means that references may still exist, even if they are inaccessible from the main code — this is a bad vibe.
+
+#### Compile-time Tracking of Allocations
+This makes use of ***static analysis***. A prime example of this is the Rust language — it makes use of compiler analysis to figure out how long references are kept, and when to deallocate.
+
+The downside to this is in order for this clever analysis to work is that there are *additional rules*:
+- Lifetimes
+- Ownership
+
+The benefits are that lots of memo

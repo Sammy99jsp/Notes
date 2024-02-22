@@ -5,4 +5,4 @@ Here if $k=3$, this blue point will be classified as **<span style="color: red">
 ### For Regression
 Here, you could take a *mean*, *median*, weighted average, or *closest* point as the output.
 ### Extrapolation
-Extrapola
+$k$-nearest neighbour doesn't perform well at all when predict

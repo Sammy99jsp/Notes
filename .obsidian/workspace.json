@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CM20319/Requirement Gathering Techniques/Introduction.md",
+                "file": "CM20256/Lambda Calculus/Syntax of ƛ-Calculus.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CM20319/Requirement Gathering Techniques/Introduction.md",
+                "file": "CM20256/Lambda Calculus/Syntax of ƛ-Calculus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CM20319/Requirement Gathering Techniques/Introduction.md",
+                "file": "CM20256/Lambda Calculus/Syntax of ƛ-Calculus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CM20319/Requirement Gathering Techniques/Introduction.md"
+                "file": "CM20256/Lambda Calculus/Syntax of ƛ-Calculus.md"
               }
             }
           },
@@ -167,11 +167,28 @@
   },
   "active": "1bea336f8633135c",
   "lastOpenFiles": [
+    "CM20254/12/Max-heap.md",
+    "CM20254/12/insert.md",
+    "CM20254/13/Dijkstra Correctness.md",
+    "CM20254/13/Dijkstra Pseudocode.md",
+    "CM20254/13/Dijkstra's Algorithm.md",
+    "CM20254/13/Path-finding Algorithms.md",
+    "CM20256/Lambda Calculus/Introduction.md",
+    "CM20256/Lambda Calculus/Syntax of ƛ-Calculus.md",
+    "CM20254/12/Heap-based Treesort.md",
+    "CM20254/12/Heaps and Heapsort.md",
+    "CM20254/12/Heapsort.md",
+    "CM20254/14/Kruskal's Alogirithm.md",
+    "CM20254/14/Untitled.md",
+    "CM20254/14/Subgraph.md",
+    "CM20254/14/Spanning.md",
+    "CM20254/14/Minimum Spanning Trees.md",
+    "CM20319/Requirement Gathering Techniques/Introduction.md",
+    "CM20256/Lambda Calculus",
     "CM20319/Requirement Gathering Techniques/Requirements.md",
     "CM20318/Types/Types in Programming Languages.md",
     "CM20318/Memory Management.md",
     "CM20318/Types",
-    "CM20319/Requirement Gathering Techniques/Introduction.md",
     "CM20319/Task Analysis/Think-aloud Protocols.md",
     "CM20319/Requirement Gathering Techniques",
     "CM20319/Task Analysis/Gathering Data for Task Analysis.md",
@@ -180,27 +197,11 @@
     "CM20319/Task Analysis/Documentation.md",
     "CM20319/Task Analysis",
     "CM20319/Implementing UIs/Event Handlers.md",
-    "CM20315-2/Support Vector Machines.md",
     "Pasted image 20240219154934.png",
     "CM20315-2/SV0.png",
     "CM20315-2/SVM1.png",
     "CM20315-2/ClassifiedWrong1.png",
-    "CM20318/Parallelism.md",
-    "CM20315-2/Random Forests.md",
-    "CM20256/Efficient Recursion.md",
-    "CM20319/Entity-Relationship Techniques.md",
-    "CM20318/Declarative Languages.md",
-    "CM20318/Imperative Languages.md",
-    "CM20318/Language Familes/Actor Languages.md",
     "CM20318/Language Familes",
-    "CM20318/Language Familes/Object-Oriented Languages.md",
-    "CM20318/Language Familes/Markup Languages.md",
-    "CM20318/Language Familes/Dataflow Languages.md",
-    "CM20318/Language Familes/Event-Driven Languages.md",
-    "CM20318/Untitled.md",
-    "CM20319/User-centred Design/Involving Users.md",
-    "CM20319/User-centred Design/Benefits of UCD.md",
-    "CM20319/User-centred Design/User-Centred Design.md",
     "CM20319/User-centred Design/UCD-Cycle.png",
     "CM20319/User-centred Design",
     "CM20319/Pasted image 20240207120507.png",
@@ -213,7 +214,6 @@
     "CM20318/Unstructured Languages",
     "CM20319",
     "CM20318",
-    "CM20315-2",
     "Untitled 1.canvas"
   ]
 }

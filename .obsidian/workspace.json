@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CM20256/Lambda Calculus/Syntax of ƛ-Calculus.md",
+                "file": "CM20315-2/K-Nearest Neighbours.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CM20256/Lambda Calculus/Syntax of ƛ-Calculus.md",
+                "file": "CM20315-2/K-Nearest Neighbours.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CM20256/Lambda Calculus/Syntax of ƛ-Calculus.md",
+                "file": "CM20315-2/K-Nearest Neighbours.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CM20256/Lambda Calculus/Syntax of ƛ-Calculus.md"
+                "file": "CM20315-2/K-Nearest Neighbours.md"
               }
             }
           },
@@ -167,6 +167,9 @@
   },
   "active": "1bea336f8633135c",
   "lastOpenFiles": [
+    "CM20315-2/KNN.png",
+    "CM20256/Lambda Calculus/Syntax of ƛ-Calculus.md",
+    "CM20315-2/K-Nearest Neighbours.md",
     "CM20254/12/Max-heap.md",
     "CM20254/12/insert.md",
     "CM20254/13/Dijkstra Correctness.md",
@@ -174,7 +177,6 @@
     "CM20254/13/Dijkstra's Algorithm.md",
     "CM20254/13/Path-finding Algorithms.md",
     "CM20256/Lambda Calculus/Introduction.md",
-    "CM20256/Lambda Calculus/Syntax of ƛ-Calculus.md",
     "CM20254/12/Heap-based Treesort.md",
     "CM20254/12/Heaps and Heapsort.md",
     "CM20254/12/Heapsort.md",
@@ -194,9 +196,7 @@
     "CM20319/Task Analysis/Gathering Data for Task Analysis.md",
     "CM20319/Task Analysis/Interviews.md",
     "CM20319/Task Analysis/Observation.md",
-    "CM20319/Task Analysis/Documentation.md",
     "CM20319/Task Analysis",
-    "CM20319/Implementing UIs/Event Handlers.md",
     "Pasted image 20240219154934.png",
     "CM20315-2/SV0.png",
     "CM20315-2/SVM1.png",

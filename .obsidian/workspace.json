@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "606aac88352f2e93",
+        "id": "bb24b3ffdaaf54d7",
         "type": "tabs",
         "children": [
           {
-            "id": "1bea336f8633135c",
+            "id": "b6a3b0c7d369754c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CM20315-2/K-Nearest Neighbours.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CM20315-2/K-Nearest Neighbours.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CM20315-2/K-Nearest Neighbours.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CM20315-2/K-Nearest Neighbours.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,11 +157,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1bea336f8633135c",
+  "active": "b6a3b0c7d369754c",
   "lastOpenFiles": [
+    "CM20315-2/K-Nearest Neighbours.md",
     "CM20315-2/KNN.png",
     "CM20256/Lambda Calculus/Syntax of ƛ-Calculus.md",
-    "CM20315-2/K-Nearest Neighbours.md",
     "CM20254/12/Max-heap.md",
     "CM20254/12/insert.md",
     "CM20254/13/Dijkstra Correctness.md",
@@ -208,7 +200,6 @@
     "Pasted image 20240212153601.png",
     "Pasted image 20240207115708.png",
     "Pasted image 20240207115901.png",
-    "CM20319/Pasted image 20240207115611.png",
     "CM20319/Implementing UIs",
     "Untitled.canvas",
     "CM20318/Unstructured Languages",

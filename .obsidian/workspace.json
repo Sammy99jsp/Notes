@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "bb24b3ffdaaf54d7",
+        "id": "b986c3afe73599c6",
         "type": "tabs",
         "children": [
           {
-            "id": "b6a3b0c7d369754c",
+            "id": "a5d080765ce03ae1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CM20318/Types/Generic Types.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CM20318/Types/Generic Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CM20318/Types/Generic Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CM20318/Types/Generic Types.md"
+              }
             }
           },
           {
@@ -157,8 +165,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6a3b0c7d369754c",
+  "active": "a5d080765ce03ae1",
   "lastOpenFiles": [
+    "CM20318/Types/Explicit and Implicit Typing.md",
+    "CM20318/Types/Generic Types.md",
+    "CM20318/Types/RustTypeUnInference.png",
+    "Pasted image 20240223095744.png",
+    "CM20318/Types/Types in OOP.md",
+    "CM20318/Types/Types in Programming Languages.md",
     "CM20315-2/K-Nearest Neighbours.md",
     "CM20315-2/KNN.png",
     "CM20256/Lambda Calculus/Syntax of ƛ-Calculus.md",
@@ -180,14 +194,11 @@
     "CM20319/Requirement Gathering Techniques/Introduction.md",
     "CM20256/Lambda Calculus",
     "CM20319/Requirement Gathering Techniques/Requirements.md",
-    "CM20318/Types/Types in Programming Languages.md",
     "CM20318/Memory Management.md",
     "CM20318/Types",
     "CM20319/Task Analysis/Think-aloud Protocols.md",
     "CM20319/Requirement Gathering Techniques",
     "CM20319/Task Analysis/Gathering Data for Task Analysis.md",
-    "CM20319/Task Analysis/Interviews.md",
-    "CM20319/Task Analysis/Observation.md",
     "CM20319/Task Analysis",
     "Pasted image 20240219154934.png",
     "CM20315-2/SV0.png",
@@ -198,8 +209,6 @@
     "CM20319/User-centred Design",
     "CM20319/Pasted image 20240207120507.png",
     "Pasted image 20240212153601.png",
-    "Pasted image 20240207115708.png",
-    "Pasted image 20240207115901.png",
     "CM20319/Implementing UIs",
     "Untitled.canvas",
     "CM20318/Unstructured Languages",

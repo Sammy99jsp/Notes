@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CM20318/Types/Generic Types.md",
+                "file": "CM20256/Lambda Calculus/Syntax of ƛ-Calculus.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CM20318/Types/Generic Types.md",
+                "file": "CM20256/Lambda Calculus/Syntax of ƛ-Calculus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CM20318/Types/Generic Types.md",
+                "file": "CM20256/Lambda Calculus/Syntax of ƛ-Calculus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CM20318/Types/Generic Types.md"
+                "file": "CM20256/Lambda Calculus/Syntax of ƛ-Calculus.md"
               }
             }
           },
@@ -167,22 +167,24 @@
   },
   "active": "a5d080765ce03ae1",
   "lastOpenFiles": [
-    "CM20318/Types/Explicit and Implicit Typing.md",
+    "CM20256/Lambda Calculus/Introduction.md",
+    "CM20256/Lambda Calculus/ɑ-conversion.md",
+    "CM20256/Lambda Calculus/Bound and Free Variables.md",
+    "CM20256/Lambda Calculus/Syntax of ƛ-Calculus.md",
     "CM20318/Types/Generic Types.md",
+    "CM20318/Types/Explicit and Implicit Typing.md",
     "CM20318/Types/RustTypeUnInference.png",
     "Pasted image 20240223095744.png",
     "CM20318/Types/Types in OOP.md",
     "CM20318/Types/Types in Programming Languages.md",
     "CM20315-2/K-Nearest Neighbours.md",
     "CM20315-2/KNN.png",
-    "CM20256/Lambda Calculus/Syntax of ƛ-Calculus.md",
     "CM20254/12/Max-heap.md",
     "CM20254/12/insert.md",
     "CM20254/13/Dijkstra Correctness.md",
     "CM20254/13/Dijkstra Pseudocode.md",
     "CM20254/13/Dijkstra's Algorithm.md",
     "CM20254/13/Path-finding Algorithms.md",
-    "CM20256/Lambda Calculus/Introduction.md",
     "CM20254/12/Heap-based Treesort.md",
     "CM20254/12/Heaps and Heapsort.md",
     "CM20254/12/Heapsort.md",
@@ -196,9 +198,7 @@
     "CM20319/Requirement Gathering Techniques/Requirements.md",
     "CM20318/Memory Management.md",
     "CM20318/Types",
-    "CM20319/Task Analysis/Think-aloud Protocols.md",
     "CM20319/Requirement Gathering Techniques",
-    "CM20319/Task Analysis/Gathering Data for Task Analysis.md",
     "CM20319/Task Analysis",
     "Pasted image 20240219154934.png",
     "CM20315-2/SV0.png",

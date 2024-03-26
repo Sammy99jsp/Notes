@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CM20256/Lambda Calculus/Syntax of ƛ-Calculus.md",
+                "file": "CM20256/Lambda Calculus/Programming/Natural Numbers.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CM20256/Lambda Calculus/Syntax of ƛ-Calculus.md",
+                "file": "CM20256/Lambda Calculus/Programming/Natural Numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CM20256/Lambda Calculus/Syntax of ƛ-Calculus.md",
+                "file": "CM20256/Lambda Calculus/Programming/Natural Numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CM20256/Lambda Calculus/Syntax of ƛ-Calculus.md"
+                "file": "CM20256/Lambda Calculus/Programming/Natural Numbers.md"
               }
             }
           },
@@ -167,10 +167,14 @@
   },
   "active": "a5d080765ce03ae1",
   "lastOpenFiles": [
-    "CM20256/Lambda Calculus/Introduction.md",
-    "CM20256/Lambda Calculus/ɑ-conversion.md",
-    "CM20256/Lambda Calculus/Bound and Free Variables.md",
+    "CM20256/Lambda Calculus/Programming in λ-calculus.md",
+    "CM20256/Lambda Calculus/Programming/Natural Numbers.md",
+    "CM20256/Lambda Calculus/Programming/Booleans.md",
+    "CM20256/Lambda Calculus/Programming",
     "CM20256/Lambda Calculus/Syntax of ƛ-Calculus.md",
+    "CM20256/Lambda Calculus/ɑ-conversion.md",
+    "CM20256/Lambda Calculus/Introduction.md",
+    "CM20256/Lambda Calculus/Bound and Free Variables.md",
     "CM20318/Types/Generic Types.md",
     "CM20318/Types/Explicit and Implicit Typing.md",
     "CM20318/Types/RustTypeUnInference.png",
@@ -193,10 +197,7 @@
     "CM20254/14/Subgraph.md",
     "CM20254/14/Spanning.md",
     "CM20254/14/Minimum Spanning Trees.md",
-    "CM20319/Requirement Gathering Techniques/Introduction.md",
     "CM20256/Lambda Calculus",
-    "CM20319/Requirement Gathering Techniques/Requirements.md",
-    "CM20318/Memory Management.md",
     "CM20318/Types",
     "CM20319/Requirement Gathering Techniques",
     "CM20319/Task Analysis",
@@ -213,7 +214,6 @@
     "Untitled.canvas",
     "CM20318/Unstructured Languages",
     "CM20319",
-    "CM20318",
     "Untitled 1.canvas"
   ]
 }

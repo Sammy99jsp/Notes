@@ -1,4 +1,4 @@
-                                                                        ## Church Numerals
+                ## Church Numerals
 The standard way (there are others!) to represent natural numbers in $\lambda$-calculus is Church Numerals, which are of the form:
 $$n \triangleq \lambda f. \lambda x. \underbrace{f(f(f(\dots (f(n)\dots)))}_{n\ \text{times}}$$
 Which means that function $f$ is applied to $x$ $n$ times where $n \in \mathbb N$, so:

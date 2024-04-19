@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CM20256/Lambda Calculus/Programming/Natural Numbers.md",
+                "file": "CM20256/Lambda Calculus/Types/Typing Contexts and Judgements.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "36c10a28ae578526",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CM20256/Lambda Calculus/Programming/Natural Numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CM20256/Lambda Calculus/Programming/Natural Numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CM20256/Lambda Calculus/Programming/Natural Numbers.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,13 +170,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a5d080765ce03ae1",
+  "active": "36c10a28ae578526",
   "lastOpenFiles": [
+    "CM20256/Lambda Calculus/Types/Typing Contexts and Judgements.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "CM20256/Lambda Calculus/Types/Simply-Typed λ Calculus.md",
+    "CM20256/Lambda Calculus/Syntax of λ-Calculus.md",
+    "CM20256/Currying.md",
     "CM20256/Lambda Calculus/Programming in λ-calculus.md",
+    "CM20256/Lambda Calculus/Types/Types.md",
     "CM20256/Lambda Calculus/Programming/Natural Numbers.md",
+    "CM20256/Lambda Calculus/Types",
     "CM20256/Lambda Calculus/Programming/Booleans.md",
     "CM20256/Lambda Calculus/Programming",
-    "CM20256/Lambda Calculus/Syntax of ƛ-Calculus.md",
     "CM20256/Lambda Calculus/ɑ-conversion.md",
     "CM20256/Lambda Calculus/Introduction.md",
     "CM20256/Lambda Calculus/Bound and Free Variables.md",
@@ -191,12 +203,6 @@
     "CM20254/13/Path-finding Algorithms.md",
     "CM20254/12/Heap-based Treesort.md",
     "CM20254/12/Heaps and Heapsort.md",
-    "CM20254/12/Heapsort.md",
-    "CM20254/14/Kruskal's Alogirithm.md",
-    "CM20254/14/Untitled.md",
-    "CM20254/14/Subgraph.md",
-    "CM20254/14/Spanning.md",
-    "CM20254/14/Minimum Spanning Trees.md",
     "CM20256/Lambda Calculus",
     "CM20318/Types",
     "CM20319/Requirement Gathering Techniques",
@@ -213,7 +219,6 @@
     "CM20319/Implementing UIs",
     "Untitled.canvas",
     "CM20318/Unstructured Languages",
-    "CM20319",
     "Untitled 1.canvas"
   ]
 }

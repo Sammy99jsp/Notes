@@ -18,17 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "36c10a28ae578526",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -102,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CM20256/Lambda Calculus/Types/Typing Contexts and Judgements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CM20256/Lambda Calculus/Types/Typing Contexts and Judgements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CM20256/Lambda Calculus/Types/Typing Contexts and Judgements.md"
+              }
             }
           },
           {
@@ -170,7 +166,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "36c10a28ae578526",
+  "active": "a5d080765ce03ae1",
   "lastOpenFiles": [
     "CM20256/Lambda Calculus/Types/Typing Contexts and Judgements.md",
     "Untitled 1.md",

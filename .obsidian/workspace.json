@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CM20256/Lambda Calculus/Types/Typing Contexts and Judgements.md",
+                "file": "CM20256/Lambda Calculus/Types/Type Inference.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CM20256/Lambda Calculus/Types/Typing Contexts and Judgements.md",
+                "file": "CM20256/Lambda Calculus/Types/Type Inference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CM20256/Lambda Calculus/Types/Typing Contexts and Judgements.md",
+                "file": "CM20256/Lambda Calculus/Types/Type Inference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CM20256/Lambda Calculus/Types/Typing Contexts and Judgements.md"
+                "file": "CM20256/Lambda Calculus/Types/Type Inference.md"
               }
             }
           },
@@ -169,6 +168,7 @@
   "active": "a5d080765ce03ae1",
   "lastOpenFiles": [
     "CM20256/Lambda Calculus/Types/Typing Contexts and Judgements.md",
+    "CM20256/Lambda Calculus/Types/Type Inference.md",
     "Untitled 1.md",
     "Untitled.md",
     "CM20256/Lambda Calculus/Types/Simply-Typed λ Calculus.md",
@@ -198,7 +198,6 @@
     "CM20254/13/Dijkstra's Algorithm.md",
     "CM20254/13/Path-finding Algorithms.md",
     "CM20254/12/Heap-based Treesort.md",
-    "CM20254/12/Heaps and Heapsort.md",
     "CM20256/Lambda Calculus",
     "CM20318/Types",
     "CM20319/Requirement Gathering Techniques",
